@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\Users\based\Documents\Embarcadero\Studio\Projects\Unit2.cpp=D:\win10\My\istb\1 курс\2 семестр\C++\9\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,=C:\Users\based\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\Users\based\Documents\Embarcadero\Studio\Projects\Unit2.h=D:\win10\My\istb\1 курс\2 семестр\C++\9\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.594,C:\Users\based\Documents\Embarcadero\Studio\Projects\Project2.cbproj=D:\win10\My\istb\1 курс\2 семестр\C++\9\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\Users\based\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\win10\My\istb\1 курс\2 семестр\C++\9\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,=C:\Users\based\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,C:\Users\based\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=D:\win10\My\istb\1 курс\2 семестр\C++\9\Project2PCH1.h</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
